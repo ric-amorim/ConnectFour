@@ -7,13 +7,13 @@
     
 
 ## How to Run
-   1- compile the files (javac *.java)
-   2- use $ java <strategy>
+   1- compile the files (javac *.java)<br />
+   2- use $ java <strategy><br />
 
-    strategy :
-        minmax
-        alphabeta
-        MCTS
-
+   strategy :
+       minmax
+       alphabeta
+       MCTS
+<br />
 The libraries used were all from java.util
 
