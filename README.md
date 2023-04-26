@@ -8,7 +8,7 @@
 
 ## How to Run
    1- compile the files (javac *.java)<br />
-   2- use $ java <strategy><br />
+   2- use $ java "strategy" <br />
 
    strategy :
        minmax
