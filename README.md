@@ -10,10 +10,11 @@
    1- compile the files (javac *.java)<br />
    2- use $ java "strategy" <br />
 
-   strategy :
-       minmax
-       alphabeta
-       MCTS
+   strategy :<br />
+       minmax<br />
+       alphabeta<br />
+       MCTS<br />
+<br />
 <br />
 The libraries used were all from java.util
 
