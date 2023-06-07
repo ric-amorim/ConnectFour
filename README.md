@@ -13,7 +13,7 @@
    strategy :<br />
        minmax<br />
        alphabeta<br />
-       MCTS<br />
+       MCTS  (some problems with this algorithm) <br />
 <br />
 <br />
 The libraries used were all from java.util
